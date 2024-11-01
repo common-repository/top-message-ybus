@@ -1,0 +1,37 @@
+
+/*
+
+Author: Ybus
+Author URI: http://y-bus.com
+Description: Top Message ybus
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Version: 1.0.0
+
+*/
+
+
+
+.row_top_message{
+
+	width:100%;
+	padding:10px 50px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 0 auto;
+}
+
+.row_top_message_on_page{
+
+	width:100%;
+	padding:10px 50px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: #FFF;
+	background-color: #000;
+	margin: 30px auto;
+
+
+}
